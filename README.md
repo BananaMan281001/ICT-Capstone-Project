@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First download git hub at https://git-scm.com/ 
+Keep clicking 'Next' until git hub is installed.
+You can check git is installed by opening a new command window and running the command 'git --version' to check the version installed.
+
 
 ## Available Scripts
 
