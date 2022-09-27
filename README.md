@@ -17,7 +17,8 @@ Once you are finished for the day, run `git pull` to ensure you have the latest 
 Then run `git add .` or `git add *` to add all the files you made changes to/added \
 Then run `git commit -m "____"` but replace the underscore with whatever you would like to call your changes (e.g "Adding new React component") \
 Then run `git push -u origin master` \
-If there are no errors then it is successful
+If there are no errors then it is successful \
+Check your work has saved by viewing the git repo online and verify your comment you added from the git commit is there. 
 
 ## How to run/test your code
 Open a terminal in Visual Studio project folder and run the command `npm start` \
