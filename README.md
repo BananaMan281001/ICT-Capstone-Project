@@ -14,7 +14,7 @@ BEFORE adding new code, run `git pull` to update any changes made by other devel
 
 ## How to save your work
 Once you are finished for the day, run `git pull` to ensure you have the latest code up to date \
-Then run `git add .` to add all the files you made changes to/added \
+Then run `git add .` or `git add *` to add all the files you made changes to/added \
 Then run `git commit -m "____"` but replace the underscore with whatever you would like to call your changes (e.g "Adding new React component") \
 Then run `git push -u origin master` \
 If there are no errors then it is successful
