@@ -1,12 +1,24 @@
 import React from 'react';
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+
 
 function Header() {
     return (
-        <div>
-            <header>
-                <h1>UC Marking and Moderation System</h1>
-            </header>
-        </div>
+        <Navbar bg="light" expand="lg">
+            <Container>
+                <Navbar.Brand href="#home">UC Marking and Review System</Navbar.Brand>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                    <Nav className="me-auto">
+                        <Nav.Link href="#home">Home</Nav.Link>
+                        <Nav.Link href="#request">Request</Nav.Link>
+                        <Nav.Link href="#assignments">Assignments</Nav.Link>
+                    </Nav>
+                </Navbar.Collapse>
+            </Container>
+        </Navbar>
     );
 }
 
