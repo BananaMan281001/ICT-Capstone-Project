@@ -2,11 +2,11 @@
 First download git hub at https://git-scm.com/ \
 Open the exe file and keep clicking 'Next' until git hub is installed. \
 You can check git is installed by opening a new command window and running the command `git --version` to check the version installed. \
-Open a new command windown and run this command: `git clone https://github.com/BananaMan281001/ict-capstone-project`\
 Install node js at https://nodejs.org/en/ \
 Keep clicking 'Next' until node js is installed \
 Install Visual Studio Code \
-Open Visual Studio and select the 'Clone Repository' option. Copy the address of this git repo into there and load it up. \
+Open Visual Studio and select the 'Clone a Repository' option. Copy the address of this git repo into there and load it up. \
+You may need to add a username and email once repository has been cloned. \
 Happy Coding!
 
 ## How to update code
