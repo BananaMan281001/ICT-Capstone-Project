@@ -2,10 +2,11 @@
 First download git hub at https://git-scm.com/ \
 Open the exe file and keep clicking 'Next' until git hub is installed. \
 You can check git is installed by opening a new command window and running the command `git --version` to check the version installed. \
-Open a new command windown and run this command: `git clone https://github.com/BananaMan281001/ict-capstone-project`\
-Install node js https://www.youtube.com/watch?v=AuCuHvgOeBY&ab_channel=DevSprout \
+Install node js at https://nodejs.org/en/ \
+Keep clicking 'Next' until node js is installed \
 Install Visual Studio Code \
-Open Visual Studio and open the 'ict-capstone-project' folder in Visual Studio \
+Open Visual Studio and select the 'Clone a Repository' option. Copy the address of this git repo into there and load it up. \
+You may need to add a username and email once repository has been cloned. \
 Happy Coding!
 
 ## How to update code
@@ -13,10 +14,11 @@ BEFORE adding new code, run `git pull` to update any changes made by other devel
 
 ## How to save your work
 Once you are finished for the day, run `git pull` to ensure you have the latest code up to date \
-Then run `git add .` to add all the files you made changes to/added \
+Then run `git add .` or `git add *` to add all the files you made changes to/added \
 Then run `git commit -m "____"` but replace the underscore with whatever you would like to call your changes (e.g "Adding new React component") \
 Then run `git push -u origin master` \
-If there are no errors then it is successful
+If there are no errors then it is successful \
+Check your work has saved by viewing the git repo online and verify your comment you added from the git commit is there. 
 
 ## How to run/test your code
 Open a terminal in Visual Studio project folder and run the command `npm start` \
