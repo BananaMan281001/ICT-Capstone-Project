@@ -1,0 +1,14 @@
+.requestBody {
+    margin: 2rem;
+}
+
+.requestHeading {
+    margin-bottom: 2rem;
+}
+
+.request{
+    outline: solid;
+    outline-color: black;
+    outline-width: thin;
+    padding: 1rem;
+}

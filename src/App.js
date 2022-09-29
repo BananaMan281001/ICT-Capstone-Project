@@ -15,7 +15,7 @@ function App() {
             <Navbar />
             <div className="containter">
                 <Routes>
-                    <Route path='/home' element={<Home />} />
+                    <Route path='/' element={<Home />} />
                     <Route path='/request' element={<Request />} />
                     <Route path='/assignments' element={<Assignments />} />
                 </Routes>

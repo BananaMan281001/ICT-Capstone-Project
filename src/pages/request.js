@@ -1,14 +1,23 @@
 import React from "react";
+import "./request.css"
 
 const Request = () => (
-    <div>
-        <h1 className="title is-1">This is the Request Page</h1>
-        <p>
-            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-            inceptos himenaeos. Vestibulum ante ipsum primis in faucibus orci luctus
-            et ultrices posuere cubilia curae; Duis consequat nulla ac ex consequat,
-            in efficitur arcu congue. Nam fermentum commodo egestas.
-        </p>
+    <div className="requestBody">
+        <h1 className="requestHeading">This is the Request Page</h1>
+        <div className="request">
+            <p>Student ID: </p>
+            <p>Name: </p>
+            <p>Degree: </p>
+            <br />
+            <p>Review Type: </p>
+            <p>Select Course: </p>
+            <p>Select Assignment: </p>
+            <p>Select Preffered Communication: </p>
+            <p>100 word justification: </p>
+            <br />
+            <br />
+            <p>Submit</p>
+        </div>
     </div>
 );
 

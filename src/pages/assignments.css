@@ -1,0 +1,14 @@
+.assignmentBody {
+    margin: 2rem;
+}
+
+.assignmentHeading {
+    margin-bottom: 2rem;
+}
+
+.assignment {
+    outline: solid;
+    outline-color: black;
+    outline-width: thin;
+    padding: 1rem;
+}
