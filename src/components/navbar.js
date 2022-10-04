@@ -1,12 +1,13 @@
 import React from 'react';
 import "./navbar.css"
 import { Link } from "react-router-dom" //, useMatch, useResolvedPath
+//<Link to="/" className="site-title">UC Marking and Review System</Link>
 
 function Navbar() {
     return (
         <nav className="nav">
-            <Link to="/" className="site-title">UC Marking and Review System</Link>
             <ul>
+                <CustomLink to="/">Home</CustomLink>
                 <CustomLink to="/request">Request</CustomLink>
                 <CustomLink to="/assignments">Assignments</CustomLink>
             </ul>

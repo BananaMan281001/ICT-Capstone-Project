@@ -1,0 +1,20 @@
+.uniLogoStyle {
+    width: 100px%;
+    height: auto;
+}
+
+.headerStyle {
+    background-color: #00789C;
+    color: white;
+    margin: 0%;
+    text-shadow: 3px 3px black;
+}
+
+div img {
+    width: 250px;
+    margin-right: 26rem;
+}
+
+div h1{
+    /*text-align: center*/;
+}

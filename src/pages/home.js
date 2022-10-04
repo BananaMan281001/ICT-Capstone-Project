@@ -2,7 +2,7 @@ import React from "react";
 import "./home.css"
 
 const Home = () => (
-        <div className="homeBody">
+    <div className="homeBody">
             <h1 className="homeHeading">Welcome!</h1>
             <p>
                 This is the UC Marking and Moderation System. This system is designed for students who believe they deserve extra marks for their assignment and want a more formal process than an exchange on emails. This system features many tools such as:

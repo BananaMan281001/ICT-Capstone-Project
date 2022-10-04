@@ -8,10 +8,12 @@ import Request from './pages/request.js';
 import Assignments from './pages/assignments.js'
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Route, Routes } from 'react-router-dom'
+import Header from './components/header.js'
 
 function App() {
     return (
         <div className="App">
+            <Header />
             <Navbar />
             <div className="containter">
                 <Routes>
