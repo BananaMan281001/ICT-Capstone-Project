@@ -1,7 +1,19 @@
 .homeBody {
     margin: 2rem;
+    color: white;
+    height: 100vh;
 }
 
 .homeHeading {
     margin-bottom: 2rem;
+}
+
+.startRequestButton {
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+    border-color: #00B3E9;
+    background-color: #00B3E9;
+    color: white;
+    padding: 10px 10px 10px 10px;
 }

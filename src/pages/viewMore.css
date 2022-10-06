@@ -1,0 +1,7 @@
+.assignment {
+    outline: solid;
+    outline-color: black;
+    outline-width: thin;
+    border-radius: 10px;
+    padding: 1rem;
+}

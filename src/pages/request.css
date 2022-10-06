@@ -1,9 +1,13 @@
 .requestBody {
     margin: 2rem;
+    margin-bottom: 0px;
+    padding: 0px;
 }
 
 .requestHeading {
     margin-bottom: 2rem;
+    padding: 0px;
+    color: white;
 }
 
 .request {
@@ -14,6 +18,7 @@
     outline-width: thin;
     padding: 1rem;
     border-radius: 10px;
+    background-color: white;
 }
 
 .buttonSubmit {
@@ -23,5 +28,9 @@
     border-color: #00B3E9;
     background-color: #00B3E9;
     color: white;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
+}
+
+p{
+    padding: 0px;
 }

@@ -1,8 +1,10 @@
 .assignmentBody {
     margin: 2rem;
+    padding: 12px;
 }
 
 .assignmentHeading {
     margin-bottom: 2rem;
+    color: white;
 }
 

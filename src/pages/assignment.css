@@ -4,13 +4,14 @@
     outline-width: thin;
     border-radius: 10px;
     padding: 1rem;
+    background-color: white;
 }
 
 .buttonViewMore {
     display: block;
     margin: auto;
-    margin-top: 12%;
-    margin-bottom: 10%;
+    margin-top: 25%;
+    margin-bottom: 5%;
     border-radius: 5px;
     border-color: #00B3E9;
     background-color: #00B3E9;

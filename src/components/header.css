@@ -7,12 +7,12 @@
     background-color: #00789C;
     color: white;
     margin: 0%;
-    text-shadow: 3px 3px black;
+    font-size: 50px;
 }
 
 div img {
     width: 250px;
-    margin-right: 26rem;
+    margin-right: 20rem;
 }
 
 div h1{
